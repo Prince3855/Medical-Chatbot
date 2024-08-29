@@ -7,3 +7,6 @@ langchain-text-splitters
 pinecone-client
 langchain-pinecone
 ctransformers
+flask
+
+-e .
