@@ -54,3 +54,6 @@ I have created a chatbot that loads a large book, embeds it, and saves the embed
     ```
 
 ## Demo
+![Capture](https://github.com/user-attachments/assets/9106127b-1e3c-464b-abe7-a6c6c78044dd)
+
+
